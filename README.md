@@ -1,8 +1,6 @@
 # Tabs
 
-# Project Title
-
-Simple overview of use/purpose.
+These are simple tab .
 
 ## Description
 
